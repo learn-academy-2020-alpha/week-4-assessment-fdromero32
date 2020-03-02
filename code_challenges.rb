@@ -14,6 +14,7 @@ def array_sorter(arr)
     end
 }
 new_arr2.sort
+
 end
 
 # p array_sorter(fullArr1)
